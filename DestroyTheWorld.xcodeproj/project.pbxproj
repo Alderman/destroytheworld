@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					CA22B4E51F422CD3002DE2A4 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = N276Q7FDEQ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N276Q7FDEQ;
 				INFOPLIST_FILE = DestroyTheWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.brandonalderman.DestroyTheWorld;
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N276Q7FDEQ;
 				INFOPLIST_FILE = DestroyTheWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.brandonalderman.DestroyTheWorld;
